@@ -1,8 +1,8 @@
 **Description**
-This repository contains the data and source code used in the study Quantifying and Classifying Node Influence Within Arbitrarily Defined Neighborhoods.
+This repository contains the data and source code used in the study "Quantifying and Classifying Node Influence Within Arbitrarily Defined Neighborhoods".
 
 **Data**
-The file Networks.rar includes 18 networks used in this research. Most networks are sourced from an online repository (Network Repository). Details of other sources can be found in the manuscript.
+The file Networks.rar includes 18 networks used in this research. Most networks are sourced from an online repository (Network Data Repository: https://networkrepository.com/index.php). Details of other sources can be found in the manuscript.
 
 **Code**
 The script Findex.py calculates the proposed F-index and outputs:
